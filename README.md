@@ -36,12 +36,15 @@ Ready to play? Follow these simple steps to get started:
    cd arkanoid
 2. **Compile the Project**
    We use Ant to compile the code. Run the following command to compile:
+      ```bash
    ant compile
-3. **Launch the Game**
+4. **Launch the Game**
    After the game is compiled, run it with this command:
+      ```bash
    ant run
-4. **Clean Up (Optional)**
+6. **Clean Up (Optional)**
    If you ever want to clean up your compiled files, simply run:
+      ```bash
    ant clean
 
 
