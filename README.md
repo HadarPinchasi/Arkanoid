@@ -5,8 +5,16 @@ Welcome to the **Arkanoid Game** — a fun and exciting blast from the past! �
 ## 🎮 Features
 - **Classic Arkanoid Fun**: Relive the golden age of arcade gaming with this classic brick-breaking action! 🚀
 - **Multiple Levels**: As you clear levels, the game gets more challenging with new layouts and faster ball speeds. 🌟
+- ![image](https://github.com/user-attachments/assets/d2c6f032-e6f2-4c53-a415-a751c75c2843)
+- ![image](https://github.com/user-attachments/assets/2f130226-be03-4937-9b59-d751e5e12906)
+
+
+- **Fun Power-ups & Challenges**:
+  - **Death Block**: Beware of the black block! 💀 When hit, it will destroy one of your precious balls. Try to avoid it?
+  - **Fun Block**: Hit the fun block and watch the magic happen! 🎉 It gives you extra balls to keep playing and extend your streak.
 - **Simple, Addictive Gameplay**: Easy to learn but hard to master — perfect for short bursts of fun or hours of playtime. 🏆
 - **Mouse & Keyboard Controls**: Play however you like — the paddle is under your control with smooth, responsive movements. 🎮
+  
 
 ## 📋 Prerequisites
 
