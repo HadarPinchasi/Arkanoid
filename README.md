@@ -32,5 +32,22 @@ Ready to play? Follow these simple steps to get started:
 1. **Clone the Repository**  
    First, clone the repo to your local machine. Open your terminal or command prompt and run:
    ```bash
-   git clone https://github.com/<your-username>/arkanoid.git
+   git clone https://github.com/HadarPinchasi/Arkanoid.git
    cd arkanoid
+2. **Compile the Project**
+   We use Ant to compile the code. Run the following command to compile:
+   ant compile
+3. **Launch the Game**
+   After the game is compiled, run it with this command:
+   ant run
+4. **Clean Up (Optional)**
+   If you ever want to clean up your compiled files, simply run:
+   ant clean
+
+
+   Ready to smash some blocks? Grab your paddle and let’s play! 🎮💥
+
+
+   
+
+
