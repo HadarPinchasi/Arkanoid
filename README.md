@@ -48,7 +48,7 @@ Ready to play? Follow these simple steps to get started:
    ant clean
 
 
-   Ready to smash some blocks? Grab your paddle and let’s play! 🎮💥
+  ## Ready to smash some blocks? Grab your paddle and let’s play! 🎮💥
 
 
    
